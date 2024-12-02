@@ -7,14 +7,15 @@ KAN is founded on the Kolmogorov-Arnold Representation Theorem (KART), which sta
 These videos demonstrate how a Multi-Layer Perceptron (MLP) and a Kolmogorov-Arnold Networks(KAN) are trained. The weights in the MLP change during training while the KAN undergoes a 1-D B-spline update.
 
 <div style="display: flex; justify-content: space-between;">
-  <video width="45%" controls>
+  <video width="40%" controls>
     <source src="video/KAN.mp4" type="video/mp4">
   </video>
-  fdsfsdf
   <video width="45%" controls>
     <source src="video/MLP.mp4" type="video/mp4">
   </video>
 </div>
+
+![](video/MLP.mp4)
 
 Kolmogorov-Arnold Networks (KANs) possess unique features in terms of accuracy, interpretability, and continual learning. The original paper presents simple examples demonstrating that KANs outperform Multi-Layer Perceptrons (MLPs). Our aim is to utilize more realistic datasets to compare KANs and MLPs based on the following criteria:
 
