@@ -10,6 +10,7 @@ These videos demonstrate how a Multi-Layer Perceptron (MLP) and a Kolmogorov-Arn
   <video width="45%" controls>
     <source src="video/KAN.mp4" type="video/mp4">
   </video>
+  fdsfsdf
   <video width="45%" controls>
     <source src="video/MLP.mp4" type="video/mp4">
   </video>
