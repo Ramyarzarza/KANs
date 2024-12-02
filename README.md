@@ -1,6 +1,6 @@
 # KAN: Kolmogorov-Arnold Networks
 
-KAN is founded on the Kolmogorov-Arnold Representation Theorem (KART), which states that if \( f \) is a multivariate continuous function defined on a bounded domain, it can be expressed as a finite composition of continuous functions of a single variable, combined using the binary operation of addition.In this image, we can see the differences between KAN and MLP.
+KAN is founded on the Kolmogorov-Arnold Representation Theorem (KART), which states that if \( f \) is a multivariate continuous function defined on a bounded domain, it can be expressed as a finite composition of continuous functions of a single variable, combined using the binary operation of addition. In this image, we can see the differences between KAN and MLP.
 
 ![Alt text](imsges/image.png)
 
